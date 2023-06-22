@@ -44,4 +44,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
