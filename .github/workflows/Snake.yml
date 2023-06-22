@@ -27,7 +27,7 @@ jobs:
       - uses: Platane/snk/svg-only@v2
         id: snake-svg
         with:
-          github_user_name: minion-lover
+          github_user_name: Minion-Lover
           # these next 3 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
