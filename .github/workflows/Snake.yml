@@ -44,5 +44,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GIT_COMMITTER_NAME: "Minion-Lover"
-          GIT_COMMITTER_EMAIL:  "bigshield.feb20@gmail.com"
+          GIT_COMMITTER_NAME: 
+          GIT_COMMITTER_EMAIL:
