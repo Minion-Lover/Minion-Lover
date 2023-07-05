@@ -23,6 +23,7 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
 ![Airflow](https://img.shields.io/badge/-Apache_Airflow-555?style=flat&logo=Apache-Airflow)\
 ![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
+![React](https://img.shields.io/badge/-React-555?style=flat&logo=React)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
 ![Jekyll](https://img.shields.io/badge/-Jekyll-555?style=flat&logo=jekyll)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
