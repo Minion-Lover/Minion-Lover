@@ -12,6 +12,7 @@
 > <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
 > Want to discuss something? You can reach out to me on Gmail at <b>bigshield.feb20@gmail.com</b>.\
 > My skype is <b><a href="https://join.skype.com/invite/H4xqy90EM4BD">live:.cid.271932d1d6dfb056</a></b>.
+> [Skype](https://img.shields.io/badge/-Skype-555?style=flat&logo=python)&nbsp;
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
