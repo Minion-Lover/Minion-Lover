@@ -13,7 +13,7 @@
 > Want to discuss something? You can reach out to me on Gmail at <b>bigshield.feb20@gmail.com</b>.\
 > My skype is <b>live:.cid.271932d1d6dfb056</b>.
 
-<div align="center">
+<div align="center" style = "display: flex">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
